@@ -1,0 +1,14 @@
+wordpress info:
+
+http://localhost:8888/wordpress/wp-admin/
+
+user name:  root
+
+password: root
+
+
+Site title:  Our new House!
+
+Username kuddleman
+
+password lufthansa
